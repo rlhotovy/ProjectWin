@@ -1,0 +1,4 @@
+ProjectWin
+==========
+
+Blackjack simulation program
